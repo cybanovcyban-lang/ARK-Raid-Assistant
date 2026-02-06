@@ -33,10 +33,8 @@ Visual and audio alerts before an event begins.
 ### 🌍 **Multilingual Support**
 - 🇺🇸 English
 - 🇫🇷 French
-- 🇩🇪 German
 - 🇪🇸 Spanish
 - 🇮🇹 Italian
-- 🇷🇺 Russian
 
 ### 🛡️ **Completely Safe**
 **100% external tool** — does not inject code into the game, does not read game memory, or modify game files.
@@ -54,7 +52,7 @@ Visual and audio alerts before an event begins.
 1. **Go** to the **[Releases](https://github.com/cybanovcyban-lang/ARK-Raid-Assistant/releases/tag/v2.6.0-rc.1)** page of this repository.
 2. **Download** the latest installer — `ARK-Raid-Assistant .exe`.
 3. **Run** the downloaded installer and follow the wizard's prompts.
-4. After installation, **launch ARC-Sight** using the created desktop shortcut.
+4. After installation, **launch `ARK-Raid-Assistant** using the created desktop shortcut.
 
 ---
 
