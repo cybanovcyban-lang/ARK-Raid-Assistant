@@ -42,7 +42,7 @@ Visual and audio alerts before an event begins.
 **100% external tool** — does not inject code into the game, does not read game memory, or modify game files.
 
 
-![SCRENSHOT](https://github.com/cybanovcyban-lang/ARK-Raid-Assistant/blob/main/ScrenInGame.webp)
+
 
 
 ---
