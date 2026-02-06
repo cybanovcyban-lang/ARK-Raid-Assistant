@@ -60,7 +60,7 @@ Visual and audio alerts before an event begins.
 
 When you first run the installer, you may encounter the **standard Windows security screen** ("Windows protected your PC" or SmartScreen).
 
-This happens because ARC-Sight is an independent tool and does not have an expensive commercial digital signature. This is standard practice for small projects.
+This happens because `ARK-Raid-Assistant is an independent tool and does not have an expensive commercial digital signature. This is standard practice for small projects.
 
 ### How to bypass this (the steps are safe):
 
