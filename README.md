@@ -9,30 +9,34 @@ ARK Raid Assistant is a simple, unobtrusive overlay designed for ARC Raiders. It
 
 
 
+# 🚀 Event Tracker for Metaforge
 
-✨ Key Features of Our Event Tracker ✨
+A program for tracking real-time events with API synchronization.
 
-🎯 Real-Time Countdown
-Synchronization with the Metaforge API server for a perfectly accurate countdown of all events in real time.
+## ✨ Key Features
 
-🧠 Intelligent Overlay
-The always-on overlay integrates into the game interface and doesn't interfere with gameplay.
+### 🎯 **Real-Time Tracking**
+Accurate countdown for all map events with synchronization via the Metaforge API.
 
-⚡ Instant Visibility Control
-Activate or hide the interface with a single key (F9 by default).
+### 🧠 **Smart Overlay**
+The window always appears on top of other applications, seamlessly integrating with gameplay.
 
-🔝 Intelligent Organization
-Active events are automatically moved to the top of the list for your convenience.
+### ⚡ **Instant Control**
+Hide or show the interface with a single hotkey (default: **F9**).
 
-🔔 Prepare in Advance
-Customizable visual and audio notifications before the start of each event.
+### 🔝 **Smart Sorting**
+Active events are always displayed first for maximum convenience.
 
-🌍 Language Support
-Available in:
-→ 🇺🇸 English
-→ 🇫🇷 French
-→ 🇪🇸 Spanish
-→ 🇮🇹 Italian
+### 🔔 **Flexible Notifications**
+Visual and audio alerts before an event begins.
 
-🛡️ Guaranteed Security
-100% third-party tool. Doesn't interfere with game code, doesn't require memory reading, and poses no account risk.
+### 🌍 **Multilingual Support**
+- 🇺🇸 English
+- 🇫🇷 French
+- 🇩🇪 German
+- 🇪🇸 Spanish
+- 🇮🇹 Italian
+- 🇷🇺 Russian
+
+### 🛡️ **Completely Safe**
+**100% external tool** — does not inject code into the game, does not read game memory, or modify game files.
