@@ -44,7 +44,7 @@ Visual and audio alerts before an event begins.
 
 
 
-
+![SCRENSHOT](https://github.com/cybanovcyban-lang/ARK-Raid-Assistant/blob/main/ScrenInGame1.png)
 ---
 
 # 📥 Installation
