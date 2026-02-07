@@ -5,7 +5,7 @@ ZenTweaks is a simple, unobtrusive overlay designed for ARC Raiders. It monitors
 
 
 
-![SCRENSHOT](https://github.com/cybanovcyban-lang/ARK-Raid-Assistant/blob/main/ScreenApp.webp)
+![SCRENSHOT](https://github.com/cybanovcyban-lang/ZenTweaks/blob/main/screenapp3.png)
 
 
 
@@ -42,7 +42,7 @@ Visual and audio alerts before an event begins.
 
 
 
-![SCRENSHOT](https://github.com/cybanovcyban-lang/ZenTweaks/releases)
+
 ---
 
 # 📥 Installation
