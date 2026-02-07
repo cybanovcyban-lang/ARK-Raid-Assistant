@@ -11,7 +11,7 @@ ZenTweaks is a simple, unobtrusive overlay designed for ARC Raiders. It monitors
 
 # 🚀 Event Tracker for Metaforge
 
-A program for tracking real-time events with API synchronization.
+A program for increasing productivity
 
 ## ✨ Key Features
 
